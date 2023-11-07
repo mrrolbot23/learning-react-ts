@@ -1,0 +1,13 @@
+.infobox {
+    text-align: center;
+}
+
+.infobox-hint {
+    border: cadetblue 1px solid;
+    color: cadetblue;
+}
+
+.infobox-warning {
+    border: coral 1px solid;
+    color: coral;
+}
